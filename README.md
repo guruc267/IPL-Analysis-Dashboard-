@@ -12,3 +12,8 @@ Features
 **Interactive Filters:** Slice data by season, player, or team for a customized view of any specific analysis.
 
 
+
+**Datasets Used**
+**Ball-by-Ball Data:** Contains detailed information about each delivery in the IPL, including runs scored, dismissal type, and batsman/bowler information.
+**Match Data:** Season-wise match details, allowing performance breakdowns by season, venue, and team.
+
